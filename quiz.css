@@ -55,3 +55,22 @@ label{
 #submit:hover{
     background-color: #0984e3;
 }
+#show h3{
+    text-align: center;
+    margin-top: 4vh;
+}
+#show #btn{
+    padding: 1vh 2vw 1vh 2vw;
+    margin-top: 2.5vh;
+    margin-left: 5vh;
+    background-color: #2ecc71;
+    border-radius: 1rem;
+    color: white;
+    border: none;
+    font-size: 0.9rem;
+    font-weight: 900;
+    
+}
+.showarea{
+    display: none;
+}
